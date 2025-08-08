@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Asif Iftekher Fahim
 
-🚀 **.NET Developer | SAP B1/A1 Consultant | Full-Stack Engineer**  
+🚀 **.NET Developer | SAP B1 & A1 Technical Consultant | Full-Stack Engineer**  
 💼 Associate Technical Consultant at **Fusion Infotech Limited**  
 📍 Based in Dhaka, Bangladesh
 
@@ -54,8 +54,8 @@ With 1+ year of hands-on industry experience and a strong academic foundation (C
 
 ### 🏆 Achievements
 
-- 🎓 Top 10 in CSE Dept, AUST (CGPA: **3.835**)
-- 🥇 Dean’s List, Scholarships, Best Junior Executive (AIUB Computer Society)
+- 🎓 9th in CSE Dept, AUST (CGPA: **3.835**)
+- 🥇 Dean’s List of Honor, Scholarships, Best Junior Executive (AUSTIDC , Mind'spark20 Event)
 - 🧠 Researcher in AI, Bangla NLP, and Explainable CNNs — **Papers published internationally**
 - 🖥️ PC Building Expert – built over 250+ systems
 
