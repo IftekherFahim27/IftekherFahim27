@@ -46,7 +46,7 @@ With 1+ year of hands-on industry experience and a strong academic foundation (C
 | [DotNet](https://github.com/IftekherFahim27/DotNet) | ASP.NET MVC, C# | Custom .NET-based project |
 | [AuthenticationRoleBase](https://github.com/IftekherFahim27/AuthenticationRoleBase) | .NET Core, SQL | Role-based authentication system |
 | [PathToJannah](https://github.com/IftekherFahim27/PathToJannah) | ASP.NET MVC, Bootstrap | Islamic info portal |
-| [3D-Portfolio-Fahim-4.2](https://github.com/IftekherFahim27/3D-portfolio-fahim-4.2) | HTML, CSS, JS | Personal interactive 3D portfolio |
+| [3D-Portfolio-Fahim-4.2](https://github.com/IftekherFahim27/3D-porfolio-fahim-4.2) | HTML, CSS, JS | Personal interactive 3D portfolio |
 | [Gym Management System](https://github.com/IftekherFahim27/Gym-management-system-ms-sql-server08) | Java Swing, MySQL | Desktop gym admin app |
 | [Land Registration Blockchain](#) | React, Solidity, IPFS | (Not public yet?) Land registration using blockchain tech |
 
