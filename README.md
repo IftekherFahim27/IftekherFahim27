@@ -13,7 +13,7 @@ I’m a passionate and result-driven software developer specializing in:
 - ✅ Building full-stack web apps with **React**, **JavaScript**, and **SQL**
 - ✅ Automating and integrating business processes across platforms
 
-With 1+ year of hands-on industry experience and a strong academic foundation (CGPA 3.835 from AUST), I’m all about clean code, scalable architecture, and client-focused delivery.
+With 1.5+ year of hands-on industry experience and a strong academic foundation (CGPA 3.835 from AUST), I’m all about clean code, scalable architecture, and client-focused delivery.
 
 ---
 
